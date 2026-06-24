@@ -1,0 +1,15 @@
+{
+  "id": "SAMPLE01",
+  "document": [
+    {
+      "id": "SAMPLE01.1",
+      "metadata": {"topic": "영화, 드라마, 전시회, 공연"},
+      "utterance": [
+        {"form": "어제 그 영화 봤어? 진짜 재밌더라.", "speaker_id": "S1"},
+        {"form": "응 나도 봤어. 근데 결말이 좀 아쉬웠어.", "speaker_id": "S2"},
+        {"form": "맞아 그건 좀 그랬어. 그래도 배우 연기는 좋았잖아.", "speaker_id": "S1"},
+        {"form": "그건 인정. 다음에 또 보러 가자.", "speaker_id": "S2"}
+      ]
+    }
+  ]
+}

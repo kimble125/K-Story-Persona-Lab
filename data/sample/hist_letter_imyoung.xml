@@ -1,0 +1,11 @@
+<doc>
+<teiHeader><titleStmt><title lang="kor">샘플 언간</title></titleStmt></teiHeader>
+<letter n="01" sender="임영" receiver="어머니" year="1682">
+<sent type="main" lang="kor" n="01">한 번 편지 온 후 일절 왕래 없어</sent>
+<sent type="main" lang="kor" n="02">다시 소식을 통하지 못하오니</sent>
+<sent type="main" lang="kor" n="03">섭섭 답답함이 가이없사오며</sent>
+<sent type="main" lang="kor" n="04">형님 편지 보고 못내 든든 반갑더이다</sent>
+<sent type="main" lang="kor" n="05">기후 대되 어떠하시니잇가</sent>
+<sent type="main" lang="kor" n="06">아무쪼록 기운 평안하심 바라옵나이다</sent>
+</letter>
+</doc>

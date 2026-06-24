@@ -1,0 +1,10 @@
+{
+  "_comment": "Copy to corpus_keys.json (git-ignored) and paste your real keys. NEVER commit real keys.",
+  "hist2024": "PASTE_KEY_국어역사자료말뭉치2024",
+  "hist2023": "PASTE_KEY_국어역사자료말뭉치2023",
+  "dialogue2024": "PASTE_KEY_일상대화말뭉치2024",
+  "spoken": "PASTE_KEY_구어말뭉치_optional",
+  "morph": "PASTE_KEY_형태분석말뭉치_optional",
+  "sentiment2020": "PASTE_KEY_감성분석말뭉치2020_optional",
+  "kg2025": "PASTE_KEY_지식그래프2025_optional"
+}

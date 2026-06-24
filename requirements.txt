@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+lxml>=4.9
+matplotlib>=3.7
+seaborn>=0.12
+# optional (semantic embeddings); char n-gram TF-IDF works without it and is more robust for 고어:
+# sentence-transformers>=2.2

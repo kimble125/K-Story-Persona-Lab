@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+
+# NIKL 말뭉치 원본 — 이용 약정상 커밋 금지 (레포 public)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# API 키 — 절대 커밋 금지
+corpus_keys.json
+
+# 샘플 데이터는 커밋 (공개 도메인)
+!data/sample/
+
+# 결과물은 커밋 (CSV, 리포트, 시각화)
+# results/ reports/ 는 gitignore 안 함
+corpus_keys.json
+*.key
+.env
+.env.*

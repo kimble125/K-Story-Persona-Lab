@@ -1,0 +1,5 @@
+﻿unit_id,label,register,period,source,n_sentences,avg_sent_len,std_sent_len,avg_word_len,ttr_word,ttr_char,hanja_ratio,hangul_ratio,punct_ratio,hanja_sent_ratio,end_da_ratio,end_ra_ratio,end_ni_ratio,question_ratio,honorific_ratio
+doc:훈민정음,훈민정음,literary,historical,hist_hunminjeongeum.xml,6.0,19.333,5.821,2.762,1.0,0.664,0.0,1.0,0.0,0.1429,0.0,0.5,0.167,0.0,0.0
+letter:임영,임영,letter,historical,hist_letter_imyoung.xml,6.0,13.0,1.826,2.786,0.964,0.705,0.0,1.0,0.0,0.0,0.333,0.0,0.167,0.167,0.167
+speaker:S1,"S1 (영화, 드라마, 전시회, 공연)",dialogue,modern,dialogue_sample.json,2.0,18.5,3.5,2.643,1.0,0.784,0.0,0.8919,0.1081,0.0,0.0,0.0,0.0,0.5,0.0
+speaker:S2,"S2 (영화, 드라마, 전시회, 공연)",dialogue,modern,dialogue_sample.json,2.0,15.5,1.5,2.385,1.0,0.871,0.0,0.871,0.129,0.0,0.0,0.0,0.0,0.0,0.0
